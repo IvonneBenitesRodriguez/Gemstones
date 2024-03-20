@@ -1,7 +1,7 @@
 # Gemstones 💎
 # 📗 Table of Contents
 
-- [🏩 Gemstones](#-finalgroupcapstone-backend)
+- [🏩 Gemstones](#-Gemstones)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Book a Hotel ](#-book-a-hotel-)
   - [🛠 Built With ](#-built-with-)

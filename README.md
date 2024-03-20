@@ -19,19 +19,7 @@
 
 # 📖 Gemstones<a name="about-project"></a>
 
-> The Book a Hotel 🏩, our API will provide functionality to create, read, and destroy data related to hotels. It will serve as the server-side component responsible for handling requests and managing the database. The React client will interact with this backend to perform actions such as creating new hotels and reservations, see the hotel details, and removing hotels from the system.
-
-## 🛠 Visit our deployed Link:<a>
-https://book-an-appointment-cmm0.onrender.com/
-</a>
-
-## 🛠 Visit our FrontEnd: <a>
-https://github.com/IvonneBenitesRodriguez/finalGroupCapstone-frontend/pull/7
-</a>
-
- API documentation:
-[API DOC](https://book-an-appointment-cmm0.onrender.com/api-docs/v1/swagger.yaml)
-
+> This is a hackerrank challenge named Gemstones. I present here its solution which involves different methods like Set, push(), filter(), for loops, and if conditionals.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,28 +28,9 @@ https://github.com/IvonneBenitesRodriguez/finalGroupCapstone-frontend/pull/7
 <details>
   <summary>Client</summary>
     <ul>
-    <li><a href="https://react.dev/">React</a></li>
-    <li><a href="https://redux.js.org/">Redux</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
   </ul>
 </details>
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
-  </ul>
-  </details>
-  <details>
-  <summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-### Key Features <a name="key-features"></a>
-
-- **Data Model**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,10 +42,9 @@ To get a local copy up and running follow these simple example steps.
 
 > You need the following tools be installed in your computer:
 
-> - [Rails](https://guides.rubyonrails.org/)
+> - [Visual Studio Code](https://code.visualstudio.com/)
 > - [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/)
-> - [Ruby](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md)
-
+> - [Hackerrank Challenge](https://www.hackerrank.com/challenges/challenges/problem)
 
 ### Setup
 

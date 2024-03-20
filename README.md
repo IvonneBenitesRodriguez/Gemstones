@@ -18,7 +18,7 @@
 
 # 📖 💎 Gemstones<a name="about-project"></a>
 
-> This is a hackerrank challenge named Gemstones. I present here its solution which involves different methods like **Set()**, **push()**, **filter()**, **for loops**, **split()** and **arrays**. Besides of variables creation, and initialization.
+> This is a hackerrank challenge named Gemstones. I present here its solution which involves different methods like **Set()**, **spread**, **has()**, **push()**, **filter()**, **for loops**, **split()** and **arrays**. Besides of variables creation, and initialization.
 
 ## 🛠 Built With <a name="built-with"></a>
 

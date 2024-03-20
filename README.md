@@ -1,7 +1,7 @@
 # Gemstones 💎
 # 📗 Table of Contents
 
-- [🏩 Gemstones](#-Gemstones)
+- [Gemstones](#-Gemstones)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Book a Hotel ](#-book-a-hotel-)
   - [🛠 Built With ](#-built-with-)
@@ -10,18 +10,14 @@
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-    - [Install](#install)
-    - [💾 Database](#-database)
     - [Usage](#usage)
-    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Book a Hotel <a name="about-project"></a>
+# 📖 Gemstones<a name="about-project"></a>
 
 > The Book a Hotel 🏩, our API will provide functionality to create, read, and destroy data related to hotels. It will serve as the server-side component responsible for handling requests and managing the database. The React client will interact with this backend to perform actions such as creating new hotels and reservations, see the hotel details, and removing hotels from the system.
 

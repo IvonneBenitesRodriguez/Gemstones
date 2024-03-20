@@ -25,7 +25,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>Programming Language used:</summary>
     <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
   </ul>
@@ -52,7 +52,7 @@ Clone this repository to your desired folder:
 ```sh
 cd my-prefered-folder
   
-git clone https://github.com/IvonneBenitesRodriguez/finalGroupCapstone-backend.git
+git clone https://github.com/IvonneBenitesRodriguez/Gemstones.git
 
 ```
 
@@ -61,19 +61,9 @@ git clone https://github.com/IvonneBenitesRodriguez/finalGroupCapstone-backend.g
 Install this project with:
 
 ```sh
-cd finalGroupCapstone-backend
+cd Gemstones
   
 bundle
-```
-
-### 💾 Database
-
-Create the databases, run migrations, and populate it with seed data:
-
-```sh
-rails db:create
-rails db:migrate
-rails db:seed
 ```
 
 ### Usage
@@ -81,7 +71,7 @@ rails db:seed
 To run the project run the following commands:
 
 ```sh
-rails s
+node nameOftheFile
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,18 +83,12 @@ rails s
 - 🌷GitHub: [@githubhandle](https://github.com/IvonneBenitesRodriguez)
 - 🌷Twitter: [@twitterhandle](https://twitter.com/IvonneBenitesR)
 - 🌷LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivonnebenites/)
-  
-👤 **Gilbert Dushimimana Happi**
-
-- Github: [Gilbert Happi Dushimimana](https://github.com/gilberthappi)
-- X: [Gilbert Happi Dushimimana](https://twitter.com/DushimimanaGil3)
-- LinkedIn: [Gilbert Happi Dushimimana](https://www.linkedin.com/in/dushimimana-gilbert-happi-997b2a262/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Complete the CRUD for places and reservations.**
+- [ ] **Add more Hackerrank challenges
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,19 +96,13 @@ rails s
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/IvonneBenitesRodriguez/finalGroupCapstone-backend/issues).
+Feel free to check the [issues page](https://github.com/IvonneBenitesRodriguez/Gemstones/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project please give it a star 😁🌟✨
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-We thank to [Murat Korkmaz](https://www.behance.net/muratk) for the marvelous [design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

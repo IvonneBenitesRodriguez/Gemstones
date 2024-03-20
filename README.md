@@ -3,7 +3,6 @@
 
 - [Gemstones](#-Gemstones)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Book a Hotel ](#-book-a-hotel-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
